@@ -1,5 +1,3 @@
-//sb-5mjyk27287097@personal.example.com
-//foodorder
 import emailjs from 'emailjs-com';
 import React, { useState, useEffect } from 'react'
 import { Button, Row, Col, ListGroup, Image, Card } from 'react-bootstrap'
